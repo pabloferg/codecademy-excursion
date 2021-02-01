@@ -7,7 +7,28 @@ body {
     text-align: center;
 }
 
-h1 {
+h2, h1 {
+    color:white;
+    display: block;
+    font-size: 50px;
+    font-weight: 400;
     
-    
+}
+
+a {
+    color: Aquamarine;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: auto;
+}
+
+p {
+    color: rgb(128, 128, 128);
+}
+
+footer {
+    color: rgb(72, 72, 72);
+    text-align: right;
 }
